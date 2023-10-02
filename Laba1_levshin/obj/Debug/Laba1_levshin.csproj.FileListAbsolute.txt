@@ -1,0 +1,11 @@
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba1_levshin\Laba1_levshin\obj\Debug\Laba1_levshin.csproj.AssemblyReference.cache
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba1_levshin\Laba1_levshin\obj\Debug\Laba1_levshin.csproj.SuggestedBindingRedirects.cache
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba1_levshin\Laba1_levshin\obj\Debug\Laba1_levshin.Properties.Resources.resources
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba1_levshin\Laba1_levshin\obj\Debug\Laba1_levshin.csproj.GenerateResource.cache
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba1_levshin\Laba1_levshin\obj\Debug\Laba1_levshin.csproj.CoreCompileInputs.cache
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba1_levshin\Laba1_levshin\bin\Debug\Laba1_levshin.exe.config
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba1_levshin\Laba1_levshin\bin\Debug\Laba1_levshin.exe
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba1_levshin\Laba1_levshin\bin\Debug\Laba1_levshin.pdb
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba1_levshin\Laba1_levshin\obj\Debug\Laba1_levshin.exe
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba1_levshin\Laba1_levshin\obj\Debug\Laba1_levshin.pdb
+C:\Users\яяяяяяяя\Desktop\SAASZ\C#\Laba1_levshin\Laba1_levshin\obj\Debug\Laba1_levshin.Form1.resources
